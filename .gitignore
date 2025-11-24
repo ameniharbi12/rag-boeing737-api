@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# IDE files
+*.idea/
+*.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data and models (large files)
+data/
+models/
+*.pt
+*.h5
+*.ckpt
+*.pdf
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# FastAPI/uvicorn
+*.db
+
+# Misc
+*.zip
+*.tar.gz
+*.rar
