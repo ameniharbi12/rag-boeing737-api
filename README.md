@@ -139,5 +139,3 @@ RAG-B737-API/
 
 ---
 
-This README is fully **GitHub-ready**, with clear headings, code blocks, tables, and proper formatting for easy readability.
-
